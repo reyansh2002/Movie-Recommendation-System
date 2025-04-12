@@ -82,10 +82,15 @@ The app uses SQL queries to:
 ## 📸 Screenshot
 
 ### Genre
+![image alt](https://github.com/reyansh2002/Movie-Recommendation-System/blob/main/output/Streamlit%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%20Beta%2012-04-2025%2020_04_10.png)
+
 
 ### Rating
+![image alt](https://github.com/reyansh2002/Movie-Recommendation-System/blob/main/output/Streamlit%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%20Beta%2012-04-2025%2020_04_47.png)
+
 
 ### keyword
+![image alt](https://github.com/reyansh2002/Movie-Recommendation-System/blob/main/output/Streamlit%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%20Beta%2012-04-2025%2020_05_25.png)
 
 ---
 
